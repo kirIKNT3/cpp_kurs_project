@@ -1,1 +1,2 @@
-# cpp_kurs_project
+# CPP kurs project
+Blackjack
